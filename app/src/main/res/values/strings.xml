@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetwalkGame</string>
+    <string name="button_text">Play</string>
+    <string name="button_text2">Instructions</string>
+    <string name="button_text3">Difficulty:</string>
+    <string name="button_text4">Easy</string>
+    <string name="button_text5">Medium</string>
+    <string name="button_text6">Hard</string>
+</resources>
